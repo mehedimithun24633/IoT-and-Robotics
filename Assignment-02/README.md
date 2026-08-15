@@ -22,8 +22,7 @@ alarms on heat excursion, freezing, smoke and unauthorised access.
 
 ## Demo video
 
-[Download the demo video](./SmartVax_ColdChainGuard_Video_compressed.mp4) |
-[Watch demo video in google drive](https://drive.google.com/drive/folders/1tL2tQWElQKNcWlgIGlABlVLynNunFuIg)
+[Download the demo video](./SmartVax_ColdChainGuard_Video_compressed.mp4)
 
 ## Report
 
