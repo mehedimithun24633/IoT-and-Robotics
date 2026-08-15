@@ -26,7 +26,7 @@ alarms on heat excursion, freezing, smoke and unauthorised access.
 
 ## Report
 
-![Final Report](./SmartVax-Report.pdf)
+[Final Report](./SmartVax-Report.pdf)
 
 ## Automation rules
 
