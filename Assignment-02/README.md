@@ -16,7 +16,6 @@ alarms on heat excursion, freezing, smoke and unauthorised access.
 |---|---|
 | `SmartVax_ColdChainGuard.pkt` | The Packet Tracer project |
 | `SmartVax-Report.pdf` | Full report, 22 pa
-| `brief/` | The original assignment brief |
 | `SmartVax_ColdChainGuard_Video_compressed/` | The demo video |
 | `Exploring Internet of Things with Cisco Packet Tracer/` | The cisco course completion report |
 
